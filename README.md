@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <h3 align="center"> Hello! I'm Michael Douglas 👋 </h3>
-<h3 align="center"> Back-End Developer | Game Developer </h3>
+<h3 align="center"> Backend Software Engineer | Game Developer </h3>
 
 &nbsp;&nbsp;&nbsp;
 
@@ -27,9 +27,9 @@
 ## **📊 Statistics:** <img align="right" src="https://komarev.com/ghpvc/?username=michaeldouglaspix&color=6A9142"><br>
 &nbsp;&nbsp;&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldouglaspix&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=michaeldouglaspix&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldouglaspix\&layout=compact&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-douglas-sl&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=michael-douglas-sl&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-douglas-sl\&layout=compact&theme=merko)
 
 
 ## **👨🏽‍💻 Skills:**
