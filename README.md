@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://michael-douglas-sl.github.io/portfolio/index.html">
-    <img alt="Portfólio" src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://michaeldouglaspix.github.io/portfolio/index.html"/></a>
+    <img alt="Portfólio" src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://michael-douglas-sl.github.io/portfolio/index.html"/></a>
     <a href="https://www.linkedin.com/in/michael-douglas-sl/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://steamcommunity.com/id/michaeldouglaspix" target="_blank">
