@@ -25,9 +25,7 @@
 ## **📊 Statistics:** <img align="right" src="https://komarev.com/ghpvc/?username=michaeldouglaspix&color=6A9142"><br>
 &nbsp;&nbsp;&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-douglas-sl&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=michael-douglas-sl&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-douglas-sl\&layout=compact&theme=merko)
 
 
 ## **👨🏽‍💻 Skills:**
